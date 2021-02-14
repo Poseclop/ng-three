@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "ng-threejs"
+  "defaultProject": "ng-threejs",
+  "cli": {
+    "defaultCollection": "@angular-eslint/schematics"
+  }
 }
